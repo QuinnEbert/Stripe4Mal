@@ -1,0 +1,33 @@
+THIS IS NOT YOUR USUAL OPEN-SOURCE LICENSE, IT IS SHORTER, DESIGNED TO BE EASY FOR YOU TO READ.  PLEASE PLEASE READ IT, SO I
+DON'T HAVE TO SEND MY LAWYERS AFTER YOU AND SO I WILL LOVE WORKING WITH YOU!
+
+* You are more than welcome to use this script to facilitate the ecommerce operations of your business.  I do not *require*
+  you to give me anything in return for it, but if you use it and find it makes you successful, I'd love you to at least do
+  me a solid and drop me a note in IRC (see the README) or possibly even grant me one of my "wishes" from the README file.
+
+* You MAY NOT represent this code, or any part of it, as your own.  I will even give you a quick cheat-sheet for how to
+  steal a line of my code as your own...
+
+  TO STEAL A LINE OF MY CODE AS YOUR OWN:
+   > All variable names must be changed (except those that are so-called PHP "superglobals" like _POST, _GET, and _REQUEST).
+   > All function names must be changed (except those that are standard PHP functions).
+   > Any line of code with a parenthesis (that's not part of a string) must have the spacing around the parenthesis changed.
+   > Any line of code with a comma (that's not part of a string) must have the spacing around the comma changed.
+   > Any curly brace that's part of code structure must be moved around (this usually means move an opening curly brace to
+       the next line with my coding style).
+   > Any line of code that has an array with square braces must have either the spacing inside the braces or the quote style
+       changed.
+
+  That's right, this is partly a learning experience, if you can change around code like that you've learned something.  If
+  you learn something from my code, I'll gladly let you piece it apart and toss it all over the place. ;)
+
+* THE "PLEASE DON'T SUE ME" STUFF YOU SEE EVERYWHERE ELSE -- READ (AT LEAST) THE THIRD AND LATER SENTENCES (THE FIRST TWO
+  ARE IN THE NORMAL LAWYER-FRIENDLY FORMAT):
+  
+  This software is provided "as-is" with no warranties of any type, including possibly implied warranties of merchantability
+  or fitness for a particular purpose.  You use this software at your own risk, and by using it, you fully assume the whole
+  responsibility for any consequences (positive AND negative) of using the software.  This means that if something bad were
+  to happen while you're using this software, you can't hold me responsibile, including if it kills, maims, injures, wounds,
+  damages, or destroys you, your family members, your friends, your businesses, your equipment, anybody related to you, or
+  anything related to you.  You should be aware that any software is with its risks and potential for colossal failure, and
+  you should use at least a modicum of common sense when considering to use this or any other software in any situation.

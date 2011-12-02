@@ -1,0 +1,7 @@
+There are four little lackings with my code, I am aware of them both, and could really easily handle them.  But, in the name
+of rapid availability, it is my hope, that the world would forgive me for these:
+
+ * The list of possible credit card expiry years is static.  There's a FIXME comment on this. ;)
+ * There is no "nifty" formatting to be found in the CC info entry form that the script presents.  This could be changed.
+ * I should probably create a separate file for the API key to be put in, but, that'd seem a bit pendantic if you ask me.
+ * My PHP code commenting could be a lot less terse.  Let's just say this release isn't the original debut of this code.
